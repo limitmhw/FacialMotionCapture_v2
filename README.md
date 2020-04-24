@@ -31,3 +31,6 @@ Open the script and change the folder for lbfmodel.yaml to the folder that you d
 
 Then run "python3 Test.py"
 
+https://www.bilibili.com/video/av967630536/
+
+b站的宣传
