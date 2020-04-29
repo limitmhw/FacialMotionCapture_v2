@@ -31,6 +31,11 @@ Open the script and change the folder for lbfmodel.yaml to the folder that you d
 
 Then run "python3 Test.py"
 
+### blender自带一个python 这里需要切换到那个目录去安装需要的库
+### 绑定的模型下载地址 https://cloud.blender.org
+### https://cloud.blender.org/p/characters/5718a967c379cf04929a4247
+### 报错一般是检测文件的路径没写对
+
 https://www.bilibili.com/video/av967630536/
 
-b站的宣传
+b站的宣传教程
